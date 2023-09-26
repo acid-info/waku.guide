@@ -46,7 +46,7 @@ For instance, consider a `nwaku` node that enables `DNS Discovery`, connects to 
 ```bash
 ./build/wakunode2 \
   --dns-discovery:true \
-  --dns-discovery-url:enrtree://AOGECG2SPND25EEFMAJ5WF3KSGJNSGV356DSTL2YVLLZWIV6SAYBM@test.waku.nodes.status.im \
+  --dns-discovery-url:enrtree://AO47IDOLBKH72HIZZOXQP6NMRESAN7CHYWIBNXDXWRJRZWLODKII6@test.wakuv2.nodes.status.im \
   --dns-discovery-name-server:1.1.1.1 \
   --dns-discovery-name-server:1.0.0.1
 ```
